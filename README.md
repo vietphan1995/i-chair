@@ -16,7 +16,5 @@ Especially in terrain exchange, iChair has stand leg to bring it and driver to n
 
 [back to git projects …](https://github.com/vietphan1995/projects)
 
-[back to notion projects …](https://www.notion.so/Projects-23d5e832d6ee80149cedda9c49fefe21?pvs=21)
-
 ### Notes
 https://six-zinc-ad4.notion.site/iChair-1f15e832d6ee80dda530e4c4fa46c64b
