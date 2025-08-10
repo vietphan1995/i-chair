@@ -1,6 +1,8 @@
-# iChair
+# i-chair
 
-# Introduction
+## iChair
+
+### Introduction
 
 [https://github.com/vietphan1995/i-chair.git](https://github.com/vietphan1995/i-chair.git)
 
@@ -19,4 +21,4 @@ Especially in terrain exchange, iChair has stand leg to bring it and driver to n
 [back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
-https://phantrungviet.notion.site/iChair-1f15e832d6ee80dda530e4c4fa46c64b
+https://phantrungviet.notion.site/i-chair-1f15e832d6ee80dda530e4c4fa46c64b
