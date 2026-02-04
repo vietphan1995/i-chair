@@ -6,6 +6,8 @@
 
 [https://github.com/vietphan1995/i-chair.git](https://github.com/vietphan1995/i-chair.git)
 
+✉️ [Send to email: vietphan95@outlook.com](mailto:vietphan95@outlook.com?subject=register_idea:i-chair_project&body=left_your_idea)
+
 iChair is a wheel chair research to product project, this chair keeps traditional physical wheel chair and has advance functions to deal with complexity terrain and traffic, in self balancing, energy saving …
 
 Especially in terrain exchange, iChair has stand leg to bring it and driver to new terrain, like variety stairs, steps, public transition vehicle ground exchange like train/bus/ship, … 
@@ -17,6 +19,8 @@ Especially in terrain exchange, iChair has stand leg to bring it and driver to n
 ![image.png](image%202.png)
 
 ![image.png](image%203.png)
+
+.
 
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
